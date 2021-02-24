@@ -1,4 +1,11 @@
-#SCCM-Export TS to Excel
+# SCCM-Export TS to Excel
+
+Personal Ideas  
+- Update to support Child Task Sequences
+- Add Tab with Package References
+
+## Orginial Post Information:  
+
 [Wayback Machine Link](http://web.archive.org/web/20200318074701/https://gallery.technet.microsoft.com/SCCM-Export-TS-vers-Excel-69b65e4c)
 
 Author: [Gregory_B](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/11967) [Twitter](https://twitter.com/gbouchu)
